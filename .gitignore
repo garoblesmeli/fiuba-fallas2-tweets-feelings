@@ -3,3 +3,4 @@
 text-venv
 .ipynb_checkpoints
 logs.log
+.DS_Store
