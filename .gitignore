@@ -1,2 +1,5 @@
 *.csv
 .pre-commit-config.yaml
+text-venv
+.ipynb_checkpoints
+logs.log

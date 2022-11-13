@@ -2,3 +2,4 @@ numpy==1.21.0
 pycaret
 spacy==2.3.5
 nbformat
+notebook
