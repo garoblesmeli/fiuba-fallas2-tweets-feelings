@@ -1,4 +1,4 @@
-# fiuba-fallas2-tweets-feelings
+# Analizador de estado de ánimo en Tweets
 
 Pasos para ejecutar el análisis de texto:
 
@@ -26,11 +26,11 @@ Pasos para ejecutar el análisis de texto:
 
 ## Ejecutar notebook
 
-10. Ejecutar `python -m notebook` para abrir el editor de notebooks en el navegador
+9. Ejecutar `python -m notebook` para abrir el editor de notebooks en el navegador
 
-11. Abrir el notebook llamado tweets_feelings_analyzer.ipynb
+10. Abrir el notebook llamado tweets_feelings_analyzer.ipynb
 
-12. Seleccionar el kernel creado en Kernel -> Change Kernel -> text-kernel
+11. Seleccionar el kernel creado en Kernel -> Change Kernel -> text-kernel
 
 
 Listo! Ya se encuentra listo para ejecutar el analizador de texto.
