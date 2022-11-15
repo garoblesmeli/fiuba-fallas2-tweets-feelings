@@ -60,4 +60,35 @@ Topic 3:
 - Directores / Peliculas / Musica
 
 Topic 4:
-- Políticos 
+- Políticos
+
+
+Con 5 tópicos vemos que aún quedan grupos con categorías que podrían estar por separado.
+
+### Con 7 tópicos:
+
+Topic 0:
+- Peliculas / Actores
+
+Topic 1:
+- Políticos / Universidades
+
+Topic 2:
+- Ciencias
+
+Topic 3:
+- Música
+
+Topic 4:
+- Ciudades / Paises / Lucares
+
+Topic 5:
+- ??
+
+Topic 6:
+- Deportes / Deportistas
+
+
+Con 7 grupos vemos que hay una categoría que tiene varias cosas mezcladas, que no llega a ser distinguible. Probaremos con un grupo menos.
+
+### Con 6 tópicos:
