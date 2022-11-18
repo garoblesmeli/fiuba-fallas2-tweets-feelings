@@ -40,7 +40,8 @@ STOPWORDS = ['style', 'text', 'align', 'center', 'right', 'background',
              'leave', 'fff', 'width', 'px', 'text', 'vertical', 'wikitable',
              'category', 'also', 'know', 'may', 'reference', 'read', 'call', 'find'
              'include', 'file', 'date', 'last', 'note', 'image', 'left', 'bgcolor', 'color',
-             'font', 'rowspan', 'solid', 'value', 'access']
+             'font', 'rowspan', 'solid', 'value', 'access', 'scope', 'col', 'row', 'position',
+             'header', 'white', 'retreive', 'bear']
 ```
 
 ## Resultados
@@ -63,32 +64,4 @@ Topic 4:
 - Políticos
 
 
-Con 5 tópicos vemos que aún quedan grupos con categorías que podrían estar por separado.
-
-### Con 7 tópicos:
-
-Topic 0:
-- Peliculas / Actores
-
-Topic 1:
-- Políticos / Universidades
-
-Topic 2:
-- Ciencias
-
-Topic 3:
-- Música
-
-Topic 4:
-- Ciudades / Paises / Lucares
-
-Topic 5:
-- ??
-
-Topic 6:
-- Deportes / Deportistas
-
-
-Con 7 grupos vemos que hay una categoría que tiene varias cosas mezcladas, que no llega a ser distinguible. Probaremos con un grupo menos.
-
-### Con 6 tópicos:
+Observamos una buena agrupación por temas. Cabe destacar que existen categorías como La del Tópico 3 que podría separarse en "Películas" y "Música", dando lugar a dos nuevos tópicos. Para esto, un posible camino sería aplicar el mismo algoritmo sobre el subset resultante del Tópico 3 para obtener una nueva clasificación detallada.
